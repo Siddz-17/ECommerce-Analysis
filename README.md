@@ -115,6 +115,7 @@ The platform encompasses 4 strategic modules:
 
 ---
 
+## 👨‍💻 Project Lead
+**Data Analytics Specialist** | Machine Learning Enthusiast | B.Tech Computer Science
 
-
-
+---
