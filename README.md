@@ -73,7 +73,7 @@ The solution delivers an **integrated data ecosystem with dynamic visualization 
 
 ## 📋 Analytics Modules
 Access the comprehensive analytics platform:  
-🔗 [UrbanRetail Intelligence Dashboard](https://lookerstudio.google.com/s/analytical_platform_2025)
+🔗 [UrbanRetail Intelligence Dashboard](https://lookerstudio.google.com/s/sH0KAToas8A)
 
 The platform encompasses 4 strategic modules:  
 1. **Executive Dashboard** → KPI tracking, financial metrics, performance indicators, operational status  
